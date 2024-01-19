@@ -1,0 +1,5 @@
+python-osc
+SpeechRecognition
+pyaudio
+keyboard
+azure-cognitiveservices-speech
